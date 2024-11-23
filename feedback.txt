@@ -1,0 +1,14 @@
+2024-11-06 12:21:07.458759: Hello
+2024-11-06 12:21:51.947692: This is the second batch of feedback
+2024-11-06 12:28:20.243189: This is the third iteration of feedback
+2024-11-16 22:01:40.369348: Add defaults for the settings, add functionality to the "Progress" screen. But most importantly, have something in the "Start Session" screen that changes the colour!
+2024-11-22 12:25:54.003591: It works, but i am not sure what it does lol
+2024-11-23 22:34:01.545097: Exciting stuff, Andreas. It is great to see how your project has progressed and the EEG machine in operation (live)!
+
+Great to see the colour of the pop up box change as my alpha/beta etc readings changed. Just watching that made me try to concentrate more!
+
+Suggested future improvements:
+1. maybe a 'n.a.' option for colour blindness may be a useful addition and 
+2. I suggest the csv file name that stores the readings be a bit shorter/more user friendly?  (I understand it tracks the date and time but a simpler version may be more user friendly?).
+2024-11-23 22:46:02.686424: Would be good to have a task to work to demonstrate relevance of program.
+Perhaps a more graphical real time interface showing brain activity might be useful.
